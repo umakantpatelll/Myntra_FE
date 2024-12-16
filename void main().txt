@@ -1,0 +1,9 @@
+void main()
+{
+int r:area;
+printf("enter the radius);
+scanf(%d",&r);
+area=3.14*r*radius
+printf("area of circle=%f",area);
+getch();
+}    
